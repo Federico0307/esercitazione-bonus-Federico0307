@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="alert_dialog_cancel">Annulla</string>
+    <string name="alert_dialog_ok">Ok</string>
+</resources>
